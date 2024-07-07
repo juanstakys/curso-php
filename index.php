@@ -17,6 +17,7 @@ curl_close($ch);
 
 <main>
     <img src="<?= $data['poster_url'] ?>" alt="Poster de <?= $data['title'] ?>" width="300" style="margin-top: 100px">
+    <h2>Esta es una modificación, a ver si aparece</h2>
     <section>
         <h1>La próxima película de Marvel</h1>
         <hgroup>
